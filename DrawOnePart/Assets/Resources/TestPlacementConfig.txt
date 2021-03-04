@@ -1,0 +1,54 @@
+{
+  "0": [
+    {
+      "placementID": 1,
+      "name": "Banner",
+      "show": true,
+      "priority": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "placementID": 2,
+      "name": "Interstitial",
+      "show": true,
+      "priority": [
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "placementID": 3,
+      "name": "Reward_Skip",
+      "show": true,
+      "priority": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "placementID": 4,
+      "name": "Inter_Splash",
+      "show": true,
+      "priority": [
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "placementID": 5,
+      "name": "Reward_GetMoreHint",
+      "show": true,
+      "priority": [
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

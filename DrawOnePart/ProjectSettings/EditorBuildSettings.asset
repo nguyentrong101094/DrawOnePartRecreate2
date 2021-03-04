@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/Main/Main.unity
+    guid: 9e22304280c4a5c44b6f276231f89a99
+  - enabled: 1
+    path: Assets/_Project/Scenes/GameDraw/GameDraw.unity
+    guid: b50f50d085638754593535420eb7fcc8
+  - enabled: 1
+    path: Assets/_Project/Scenes/LevelMaker/LevelMaker.unity
+    guid: 16faeb55a2303144c9b263384729812a
+  - enabled: 1
+    path: Assets/_Project/Scenes/Popup/Popup.unity
+    guid: f7f89f99622544a438b581ad1d68e9e7
+  - enabled: 1
+    path: Assets/_Project/Scenes/Loading/Loading.unity
+    guid: d3b4908c3f2f8a74f9c5bba3e69f47ff
+  - enabled: 1
+    path: Assets/_Project/Scenes/PopupWithImageController/PopupWithImage.unity
+    guid: 378e5c8cca232d04aae29f6035f6d9d4
+  - enabled: 1
+    path: Assets/_Project/Scenes/StageComingSoon/StageComingSoon.unity
+    guid: b9933cb08f557b148872fef514411cf0
+  - enabled: 1
+    path: Assets/_Project/Scenes/RatePopup/RatePopup.unity
+    guid: 72807358a5a725d4cb0616c006ae335f
+  - enabled: 1
+    path: Assets/_Project/Scenes/Result/Result.unity
+    guid: 77a49d5082b147349aa3ffec9da80dd4
+  - enabled: 1
+    path: Assets/_Project/Scenes/Setting/Setting.unity
+    guid: 34b8ae066e99b0e459e605933d8facad
+  - enabled: 1
+    path: Assets/_Project/Scenes/PrivacyPolicy/PrivacyPolicy.unity
+    guid: 7882795495007f74b86c16038d7f82ca
+  - enabled: 1
+    path: Assets/_Project/Scenes/HintDialog/HintDialog.unity
+    guid: c50668fdc9826e640b1e080809ddbb95
+  - enabled: 1
+    path: Assets/_Project/Scenes/GetHint/GetHint.unity
+    guid: 0a862dad5b2c13b45bf2f6d21951005d
+  - enabled: 1
+    path: Assets/_Project/Scenes/AboutUs/AboutUs.unity
+    guid: 7a180b28243a6704d814401d64712c30
+  - enabled: 1
+    path: Assets/_Project/Scenes/ReceiveItem/ReceiveItem.unity
+    guid: c47114321a3400f47b1ae4f862402c59
+  - enabled: 1
+    path: Assets/_Project/Scenes/StageListThumbnail/StageListThumbnail.unity
+    guid: b72ec1f929e3fe643b7854a3d9be0c7f
+  - enabled: 1
+    path: Assets/_Project/Scenes/StageSelect/StageSelect.unity
+    guid: b891524dc292ca04ba84334bf9af2d04
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f5f9334c710b60943abd87feda5638a0,
+      type: 2}

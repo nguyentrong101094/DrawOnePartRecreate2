@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TRAVEL
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 198af21bcae5a964986f6ee38c2ecf08, type: 3}
+    totalSpriteSurfaceArea: 35199360
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fca96470967ca6c4ca2fbd42ec168000, type: 3}
+  - {fileID: 21300000, guid: e66d8b915e51b434dade1fae28a907d2, type: 3}
+  - {fileID: 21300000, guid: efb3a9a124dc66d498ace5152d5b730e, type: 3}
+  - {fileID: 21300000, guid: 12a4d3c17f6afa04b9a84d1ba6226376, type: 3}
+  - {fileID: 21300000, guid: 2934c50370265df46a56f871fda81989, type: 3}
+  - {fileID: 21300000, guid: 2f815d9301645be4abcaf47c7c4a9a52, type: 3}
+  - {fileID: 21300000, guid: e7a168e3c4d975b4698306ea85cb5bea, type: 3}
+  - {fileID: 21300000, guid: 5c40d304b35bb5247a9513eb0d3405d5, type: 3}
+  - {fileID: 21300000, guid: 0698f394ef747fb4285708db3e9fe411, type: 3}
+  - {fileID: 21300000, guid: 9b33cfb57ac2b0e4fab8413a73f22383, type: 3}
+  - {fileID: 21300000, guid: e164de26aee14d7438db56bea077ffb8, type: 3}
+  - {fileID: 21300000, guid: f58cdb87601724d49bf211e5ad40d32e, type: 3}
+  - {fileID: 21300000, guid: bdfa01580fe6b8e40a00684072937de5, type: 3}
+  - {fileID: 21300000, guid: 39593b78a9be11a4ebd33f331da39a99, type: 3}
+  - {fileID: 21300000, guid: ef424c98231defe45b6454e6518b24f0, type: 3}
+  - {fileID: 21300000, guid: 062c629942e8be24abe13a53a377dd74, type: 3}
+  - {fileID: 21300000, guid: 9b68592aac8355743807b74953846f43, type: 3}
+  - {fileID: 21300000, guid: d09dd8aa56c42cf459750e35b14dbf24, type: 3}
+  - {fileID: 21300000, guid: 8d9348ca5c5e03744be97c4dc3c8e406, type: 3}
+  - {fileID: 21300000, guid: 329fed3cbb9f4b84c9af22219833170d, type: 3}
+  - {fileID: 21300000, guid: 9608fb3e636279d41a64dc702d9f4b5a, type: 3}
+  - {fileID: 21300000, guid: 7bf97a8f96c44d04a820311290a9e768, type: 3}
+  - {fileID: 21300000, guid: 0986a2cf0460b974c8ebedd731044d28, type: 3}
+  - {fileID: 21300000, guid: 2c0781ffeed31dc49b722f77f46fd22b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TRAVEL_17_2
+  - TRAVEL_23_2
+  - TRAVEL_17
+  - TRAVEL_24
+  - TRAVEL_14
+  - TRAVEL_11_2
+  - TRAVEL_10_2
+  - TRAVEL_13_2
+  - TRAVEL_11
+  - TRAVEL_20_2
+  - TRAVEL_18_2
+  - TRAVEL_23
+  - TRAVEL_19_2
+  - TRAVEL_24_2
+  - TRAVEL_16
+  - TRAVEL_14_2
+  - TRAVEL_12
+  - TRAVEL_19
+  - TRAVEL_18
+  - TRAVEL_16_2
+  - TRAVEL_13
+  - TRAVEL_12_2
+  - TRAVEL_20
+  - TRAVEL_10
+  m_RenderDataMap: {}
+  m_Tag: TRAVEL
+  m_IsVariant: 0

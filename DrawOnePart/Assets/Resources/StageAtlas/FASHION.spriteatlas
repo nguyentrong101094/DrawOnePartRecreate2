@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FASHION
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ba21a4243bcb9614eb37a5e6a2fe4793, type: 3}
+    totalSpriteSurfaceArea: 46042560
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d47c99001c0d1f949bae8ced7f2628ab, type: 3}
+  - {fileID: 21300000, guid: fcd3f4c041d73db49ad16b34a505c347, type: 3}
+  - {fileID: 21300000, guid: 11e219b1786fe4449b35488bd7208aa4, type: 3}
+  - {fileID: 21300000, guid: 92d3b9223c237934aad5bd4dc662a519, type: 3}
+  - {fileID: 21300000, guid: 17217772fef28f34eb41833c07de7fa0, type: 3}
+  - {fileID: 21300000, guid: 7a04cca220165a44eb5bbf1d5f238675, type: 3}
+  - {fileID: 21300000, guid: c7cbc17402d22164b8fe0acfc730f5eb, type: 3}
+  - {fileID: 21300000, guid: 0f3dc8745310f6d488dc62c135f87696, type: 3}
+  - {fileID: 21300000, guid: b5cefdd40cb029a49a7d6ddaf3461c59, type: 3}
+  - {fileID: 21300000, guid: 94030595fb307f949ba7ab9c6140a2f0, type: 3}
+  - {fileID: 21300000, guid: 6135c33607b3df04e9699d45c6eaee12, type: 3}
+  - {fileID: 21300000, guid: d49b41562ed19af45815fa82175a78fa, type: 3}
+  - {fileID: 21300000, guid: 9c803767c510ef847a04c8f1644c0c97, type: 3}
+  - {fileID: 21300000, guid: 67b227281f7d49247858e1cf5e37ed5d, type: 3}
+  - {fileID: 21300000, guid: 17519138215b01f4c971622d52d3b51f, type: 3}
+  - {fileID: 21300000, guid: 69e307d8239a752469ce1d07ca48a191, type: 3}
+  - {fileID: 21300000, guid: b0a100190607b204dbd4dcdba583a12d, type: 3}
+  - {fileID: 21300000, guid: 34845a0a8829ed64086d95292bb0efa0, type: 3}
+  - {fileID: 21300000, guid: 6832242aed2c88947adcd442cb2d712a, type: 3}
+  - {fileID: 21300000, guid: 6710ae5ad62ef264483325ecd7ff1747, type: 3}
+  - {fileID: 21300000, guid: bc3ea6cace6cc0a40bcc2e720b0d585d, type: 3}
+  - {fileID: 21300000, guid: f2fc7dcabb7c3144197d537ed936d933, type: 3}
+  - {fileID: 21300000, guid: 3291b3ea0ddc2ea42b1ce896f42d0c1e, type: 3}
+  - {fileID: 21300000, guid: c511e0fbee713264dac50c9079744f3b, type: 3}
+  - {fileID: 21300000, guid: 226d70ac6c4bede439dc5eba5b75ad2b, type: 3}
+  - {fileID: 21300000, guid: 039edd2d5432512478c74e1d0b4f83a8, type: 3}
+  - {fileID: 21300000, guid: e96e317d49e2037408fcf14b8b5bd2f0, type: 3}
+  - {fileID: 21300000, guid: e42803ed4c2df2a42b666da8e237a72d, type: 3}
+  - {fileID: 21300000, guid: 2f15901ea67b08147bd9f1b906966b9d, type: 3}
+  - {fileID: 21300000, guid: 1dea2c7e9687e1543a52c2a24b1067c1, type: 3}
+  - {fileID: 21300000, guid: 03eb31be73b8d224286907212b0fdee0, type: 3}
+  - {fileID: 21300000, guid: 5fe7137fe0a29b2458d1df8291cc9613, type: 3}
+  - {fileID: 21300000, guid: 227585cff88d38740b831c63aa9dc96a, type: 3}
+  - {fileID: 21300000, guid: 429eedcf7273c7b4b99ae0d217044243, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FASHION_3_2
+  - FASHION_18
+  - FASHION_16_2
+  - FASHION_4
+  - FASHION_12
+  - FASHION_2
+  - FASHION_5_2
+  - FASHION_1
+  - FASHION_15
+  - FASHION_17
+  - FASHION_13
+  - FASHION_4_2
+  - FASHION_16
+  - FASHION_20
+  - FASHION_19_2
+  - FASHION_17_2
+  - FASHION_9
+  - FASHION_11_2
+  - FASHION_14
+  - FASHION_11
+  - FASHION_5
+  - FASHION_14_2
+  - FASHION_10
+  - FASHION_1_2
+  - FASHION_13_2
+  - FASHION_3
+  - FASHION_19
+  - FASHION_18_2
+  - FASHION_15_2
+  - FASHION_9_2
+  - FASHION_20_2
+  - FASHION_10_2
+  - FASHION_2_2
+  - FASHION_12_2
+  m_RenderDataMap: {}
+  m_Tag: FASHION
+  m_IsVariant: 0

@@ -1,0 +1,20 @@
+{
+    "name": "SceneWindowEditor",
+    "references": [
+        "GUID:0f532791a36cbc74380a2f7685f95f13",
+        "GUID:b196143c855ed5542adcae9693e7ef93",
+        "GUID:d118f8cf2e30c3a4a864cd4b3289d473",
+        "GUID:e7b0f91dde236dd40973c85e527ef9b0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

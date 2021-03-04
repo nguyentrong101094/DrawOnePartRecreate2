@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc77607c2a62ef48b8f7dec55cc6d91, type: 3}
+  m_Name: AnalyzeRuleData
+  m_EditorClassIdentifier: 
+  m_RuleToResults:
+  - RuleName: Check Duplicate Bundle Dependencies
+    Results:
+    - m_ResultName: No issues found
+      m_Severity: 0
+  - RuleName: Check Resources to Addressable Duplicate Dependencies
+    Results:
+    - m_ResultName: Check Resources to Addressable Duplicate Dependencies - No issues
+        found.
+      m_Severity: 0
+  - RuleName: Check Scene to Addressable Duplicate Dependencies
+    Results:
+    - m_ResultName: Check Scene to Addressable Duplicate Dependencies - No issues
+        found.
+      m_Severity: 0
+  - RuleName: Check Sprite Atlas to Addressable Duplicate Dependencies
+    Results:
+    - m_ResultName: No issues found
+      m_Severity: 0
+  - RuleName: Build Bundle Layout
+    Results:
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Explicit:Assets/_Project/Addressables/Picture_Atlas_1.spriteatlas
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_3_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_12.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_17.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_10.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_22_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_5_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_26.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/BODY_08.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_5.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_36.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_10_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/BODY_09.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_32.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/HW_1.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_34.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_26_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_35.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_29_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_16_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_3.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_12_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_4.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_30.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/BODY_09_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISMAS_20.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_12.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_30_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_32.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_19_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_3_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_33.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_13.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_22.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_17.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_13_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_33.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_5_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_1.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_27_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_13_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_15.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_17_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_8_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_1.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_09.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_31_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_30_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_17.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_12_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_32_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_12.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_13.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_4_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_8.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_29.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_31_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_35.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_9.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_16.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_28.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_21.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_29_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_8_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_28_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISMAS_13.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_31.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_1_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_17_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_27.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_9.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_35_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/HW_1_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_37_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_14_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_34_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_17_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHIRSTMAS_16.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_33_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_03.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_11_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_26_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_14.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_11.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_9_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_37.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_27_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_5.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_14_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_10.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_20.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_28.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_34.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_32_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_21_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_31.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_35_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISMAS_13_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_22_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_27.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_10_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_28_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_36_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_1_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_20_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISMAS_20_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_2_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_34_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_26.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_10.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_13.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_13_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_3.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_22.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_19.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_02.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_8.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_09_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_15_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_29.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_9_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FOOD_9.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_03_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHRISTMAS_9_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_01_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_33_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_14.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_10_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/CHIRSTMAS_16_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_01.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_02_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_2_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/FASHION_12_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/BODY_08_2.png
+      m_Severity: 0
+    - m_ResultName: defaultlocalgroup_assets_all.bundle:Implicit:Assets/_Project/Addressables/Pictures_1/ANIMAL_30.png
+      m_Severity: 0
+  - RuleName: UnityEditor.AddressableAssets.Build.AnalyzeRules.AnalyzeRule
+    Results: []

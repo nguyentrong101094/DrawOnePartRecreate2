@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OtherUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b75ecc48dd71b284494a27150a920b1c, type: 3}
+    - {fileID: 102900000, guid: 896a8a42ac1bdaf4b8534f6e25ab9f85, type: 3}
+    - {fileID: 102900000, guid: fdf643167353f3541b70852de96d6429, type: 3}
+    totalSpriteSurfaceArea: 4388460
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bab9460099ed2e74783fe4eb24774dcb, type: 3}
+  - {fileID: 21300000, guid: b4d97981c4e4e4b4bac4743dea848f79, type: 3}
+  - {fileID: 21300000, guid: fa28ff3246b8039488369eb39d35063c, type: 3}
+  - {fileID: 21300000, guid: aeae5d92bed31c44a96059d7e2adfc44, type: 3}
+  - {fileID: 21300000, guid: a470e1a3f7b4b0d4cb5318188bd87eff, type: 3}
+  - {fileID: 21300000, guid: 0f1241b3b962315499185c917ab22ea7, type: 3}
+  - {fileID: 21300000, guid: 6804cb86e4063b84eaf06fa9e700b579, type: 3}
+  - {fileID: 21300000, guid: 9f2078f606107ff4b86e9d0f8cf3ab97, type: 3}
+  - {fileID: 21300000, guid: 1b785068fc0abce47b9e8fe10b327444, type: 3}
+  - {fileID: 21300000, guid: 2c3297f88dfdc1e4d935a42ea5667796, type: 3}
+  - {fileID: 21300000, guid: 28e07b49a848ce446bc624dcacbeadd2, type: 3}
+  - {fileID: 21300000, guid: e2abc25993d33ee4cac82b3220a23d69, type: 3}
+  - {fileID: 21300000, guid: acba2c7913e068d4f9f6bc91ba914433, type: 3}
+  - {fileID: 21300000, guid: bd4a0e0a94f01244bb11034d7f3a38a7, type: 3}
+  - {fileID: 21300000, guid: b26f26aa248326a4ba14819f93817e5c, type: 3}
+  - {fileID: 21300000, guid: da29dbaa00b4182418bca798f4b9120e, type: 3}
+  - {fileID: 21300000, guid: 06937b6becf9c924f98300eb0d26ab95, type: 3}
+  - {fileID: 21300000, guid: 4fbcc3bb7f2adab4e9bf3068028ed333, type: 3}
+  - {fileID: 21300000, guid: 0f08b1eb86655f74cacd3f8cda0b0c57, type: 3}
+  - {fileID: 21300000, guid: bb0c341ed94798a49af4a94a76b4ca96, type: 3}
+  - {fileID: 21300000, guid: 988ad43e5d169cc4b87ad2aae349b2bb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RATE copy
+  - DIALOG_1
+  - 72square
+  - STAR5
+  - DIALOG_1_2
+  - STAR_B
+  - Layer 48 copy 2
+  - STAR1234
+  - OK copy 2
+  - Layer 46
+  - X
+  - OK copy 3
+  - LOADING_1
+  - RATE US _ copy
+  - RATE
+  - Not now copy
+  - Not now
+  - RATE US _
+  - Layer 8
+  - LOADING_2
+  - Layer 47
+  m_RenderDataMap: {}
+  m_Tag: OtherUI
+  m_IsVariant: 0

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TRAN
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 66e4f8c67ce660647b377836795dbdff, type: 3}
+    totalSpriteSurfaceArea: 12806640
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ac3bc1f09e3e32a4b98794c2a0fe88ba, type: 3}
+  - {fileID: 21300000, guid: 7ab85f02efd6b4e4f871a0b94a5ae81f, type: 3}
+  - {fileID: 21300000, guid: e0f3be22a835ab2489187303a0ba15b2, type: 3}
+  - {fileID: 21300000, guid: aa64c654a97a27c4e8f47f029d39faba, type: 3}
+  - {fileID: 21300000, guid: 2eaf3df5c3473cb4a848bb6ca11b2040, type: 3}
+  - {fileID: 21300000, guid: e665b507b48052643952740bf8673e2f, type: 3}
+  - {fileID: 21300000, guid: 9b2865c75b230c6419ef032dece42077, type: 3}
+  - {fileID: 21300000, guid: 78d0f8c83c9a7414eabf8a3649a240ae, type: 3}
+  - {fileID: 21300000, guid: 9a23bfe8ce1bc4f4aa6af6bf543ab334, type: 3}
+  - {fileID: 21300000, guid: 08a8604afb79f4b4981fd726bb1c024a, type: 3}
+  - {fileID: 21300000, guid: 90ea067c983b8504e8ff1cd9fd5e72cd, type: 3}
+  - {fileID: 21300000, guid: 8162d87c0ce22fc47ab6358393c3a635, type: 3}
+  - {fileID: 21300000, guid: 2864775d6d59bb644bc512e46f06d540, type: 3}
+  - {fileID: 21300000, guid: 258eb48ec1c9f794d958db97f60f8070, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TRAN_15
+  - TRAN_12_2
+  - TRAN_20
+  - TRAN_12
+  - TRAN_13_2
+  - TRAN_15_2
+  - TRAN_4_2
+  - TRAN_18_2
+  - TRAN_2_2
+  - TRAN_2
+  - TRAN_20_2
+  - TRAN_4
+  - TRAN_18
+  - TRAN_13
+  m_RenderDataMap: {}
+  m_Tag: TRAN
+  m_IsVariant: 0

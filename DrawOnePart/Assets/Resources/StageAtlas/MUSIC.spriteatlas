@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MUSIC
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1c59b57797ae0c949af8dac94f5ae872, type: 3}
+    totalSpriteSurfaceArea: 11733120
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 91efe960f4aaa7049ba6882bbae4601d, type: 3}
+  - {fileID: 21300000, guid: 3020a87035dfb7043ba3a1bba6196228, type: 3}
+  - {fileID: 21300000, guid: 44a81bd6f68cdc6479c079db5d8a54cd, type: 3}
+  - {fileID: 21300000, guid: 1bc6b2f6d4baac249a50b24b4e77f6cc, type: 3}
+  - {fileID: 21300000, guid: 065f14d9ce8fef24998da361ae1df882, type: 3}
+  - {fileID: 21300000, guid: 758f6f3c24ec25d41810f576920cee3d, type: 3}
+  - {fileID: 21300000, guid: fc7855cc14e939f42b54ac44779ef531, type: 3}
+  - {fileID: 21300000, guid: e05dc43e7717e0043897965134383fa1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MUSIC_9_2
+  - MUSIC_7
+  - MUSIC_6
+  - MUSIC_6_2
+  - MUSIC_8_2
+  - MUSIC_8
+  - MUSIC_9
+  - MUSIC_7_2
+  m_RenderDataMap: {}
+  m_Tag: MUSIC
+  m_IsVariant: 0

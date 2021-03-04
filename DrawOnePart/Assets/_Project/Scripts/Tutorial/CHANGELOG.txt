@@ -1,0 +1,3 @@
+TUTORIAL MANAGER BY TRONG
+Version: 1.1.0: 
+ - 28/4/2020: Change from storing bool value to int value so you can show a tutorial multiple times before set it to done

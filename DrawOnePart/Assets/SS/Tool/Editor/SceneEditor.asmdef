@@ -1,0 +1,18 @@
+{
+    "name": "SceneEditor",
+    "references": [
+        "GUID:0f532791a36cbc74380a2f7685f95f13",
+        "GUID:b196143c855ed5542adcae9693e7ef93"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

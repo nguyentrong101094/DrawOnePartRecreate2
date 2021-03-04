@@ -1,0 +1,4 @@
+2020/09/08:
+fix SS manager load block by checking state instead of object active
+SS\View\Core\Manager.cs
+SS\View\Core\ManagerObject.cs

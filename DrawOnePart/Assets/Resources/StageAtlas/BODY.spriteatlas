@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BODY
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2129739a1b63c9f489357e4eb59b194e, type: 3}
+    totalSpriteSurfaceArea: 18401368
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0224ecb0b18bbfa4f982bdee545a362d, type: 3}
+  - {fileID: 21300000, guid: 01ba7161f9adb2243b49259adc3ff5d0, type: 3}
+  - {fileID: 21300000, guid: cc214462c4ad4a1469640c45713963e5, type: 3}
+  - {fileID: 21300000, guid: 4839bad32355d3842aa28f34fd3ba5b3, type: 3}
+  - {fileID: 21300000, guid: f7a11e4716748d8458bf485cb0c0b0be, type: 3}
+  - {fileID: 21300000, guid: 45fd655705ac7404baab8e6d7b1a3fa7, type: 3}
+  - {fileID: 21300000, guid: 5f3c3787bfb4358459f797f88266e1cc, type: 3}
+  - {fileID: 21300000, guid: 2e5a6b5865c9c3d48ad0e49bc4c67468, type: 3}
+  - {fileID: 21300000, guid: 8cfb30b8273ef1f4a955169a86f3072b, type: 3}
+  - {fileID: 21300000, guid: a6e731fbfadeeae48ae3ba82bebdb9b9, type: 3}
+  - {fileID: 21300000, guid: 0970586c58f509f45982de24b4a2abe8, type: 3}
+  - {fileID: 21300000, guid: ef0d627c6ff90b74d8de625a8ba98f24, type: 3}
+  - {fileID: 21300000, guid: 5cb1ba2d6721da6488d268711250ab68, type: 3}
+  - {fileID: 21300000, guid: 4ad4c4efef664a84f8699c40d91a0978, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BODY_08
+  - BODY_09
+  - BODY_09_2
+  - BODY_10
+  - BODY_14
+  - BODY_11
+  - BODY_13_2
+  - BODY_10_2
+  - BODY_13
+  - BODY_12
+  - BODY_14_2
+  - BODY_12_2
+  - BODY_11_2
+  - BODY_08_2
+  m_RenderDataMap: {}
+  m_Tag: BODY
+  m_IsVariant: 0

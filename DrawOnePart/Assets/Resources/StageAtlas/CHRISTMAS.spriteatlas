@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CHRISTMAS
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d411cadc46f18cf46a764ac9fd10bb79, type: 3}
+    totalSpriteSurfaceArea: 40098240
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a4935220487c1cc4b8a487490d4f582d, type: 3}
+  - {fileID: 21300000, guid: 7d9e7560043589148990d311220135d7, type: 3}
+  - {fileID: 21300000, guid: b1b56ab076248dd47adf66e56e67840b, type: 3}
+  - {fileID: 21300000, guid: 9024cef0e08f08344ba8a0189b415c3f, type: 3}
+  - {fileID: 21300000, guid: b72111f1dc8e67542bc4003b1b4bf1a1, type: 3}
+  - {fileID: 21300000, guid: 5fdade227e61fbe4a9ada84b855dde8c, type: 3}
+  - {fileID: 21300000, guid: 4a91ea03f00e8544586938f8d1bda886, type: 3}
+  - {fileID: 21300000, guid: 665aa3b3324a5ad4dae2773cb9601131, type: 3}
+  - {fileID: 21300000, guid: 4754b1147120af04da15c65bf5b278a7, type: 3}
+  - {fileID: 21300000, guid: 6dabc415f2cb878478c33649b86ea968, type: 3}
+  - {fileID: 21300000, guid: b7adb63570fb2c74aa963c06e42d2db4, type: 3}
+  - {fileID: 21300000, guid: 44ecbb45f196ce049a2444619a6f5be4, type: 3}
+  - {fileID: 21300000, guid: 591b6376a98678c4493ab2d3d6327750, type: 3}
+  - {fileID: 21300000, guid: 433255e6f415eca4894248e14ec93641, type: 3}
+  - {fileID: 21300000, guid: 6a5bd71703c9647438506429cd65e295, type: 3}
+  - {fileID: 21300000, guid: 27f88e8748d6b464ab30917adec167dd, type: 3}
+  - {fileID: 21300000, guid: 24e0f4b812fb9a64e829942fa88464a3, type: 3}
+  - {fileID: 21300000, guid: 633d6bc87c34c504bafe5483232631ca, type: 3}
+  - {fileID: 21300000, guid: 7e4d31f87e358024e97c7c8125c30f98, type: 3}
+  - {fileID: 21300000, guid: 6d92a429f3724e149b9dd21b26584880, type: 3}
+  - {fileID: 21300000, guid: 43c1f6399ef1a994bb9761906e7836e5, type: 3}
+  - {fileID: 21300000, guid: 6f01f24b993da394a931955c3d242d6b, type: 3}
+  - {fileID: 21300000, guid: 7bd82d6b870002249963d9b07dc0b214, type: 3}
+  - {fileID: 21300000, guid: b230848b2ec60f441ad60bae1e54344a, type: 3}
+  - {fileID: 21300000, guid: 153241ab9a74e2944a4523c6e946326f, type: 3}
+  - {fileID: 21300000, guid: 74212f7cd4843a24497f4f8ef051008a, type: 3}
+  - {fileID: 21300000, guid: 6f694b8ce21a901429788e91d4d50ffd, type: 3}
+  - {fileID: 21300000, guid: cb50f70ddd66e1b47828633c8353c0bb, type: 3}
+  - {fileID: 21300000, guid: 13b9078dd5cf1494592cf9b85a771127, type: 3}
+  - {fileID: 21300000, guid: 27a909ee67f5fdb49938d660e56d0469, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CHRISTMAS_17
+  - CHRISTMAS_5_2
+  - CHRISTMAS_18_2
+  - CHRISTMAS_5
+  - CHRISTMAS_20_2
+  - CHRISTMAS_23_2
+  - CHRISTMAS_28
+  - CHRISTMAS_22
+  - CHRISTMAS_27_2
+  - CHRISTMAS_17_2
+  - CHRISTMAS_8_2
+  - CHRISTMAS_1
+  - CHRISTMAS_8
+  - CHRISTMAS_27
+  - CHRISTMAS_9
+  - CHRISTMAS_21
+  - CHRISTMAS_29_2
+  - CHRISTMAS_1_2
+  - CHRISTMAS_23
+  - CHRISTMAS_29
+  - CHRISTMAS_28_2
+  - CHRISTMAS_21_2
+  - CHRISTMAS_22_2
+  - CHRISTMAS_18
+  - CHRISTMAS_10_2
+  - CHRISTMAS_19
+  - CHRISTMAS_10
+  - CHRISTMAS_19_2
+  - CHRISTMAS_20
+  - CHRISTMAS_9_2
+  m_RenderDataMap: {}
+  m_Tag: CHRISTMAS
+  m_IsVariant: 0

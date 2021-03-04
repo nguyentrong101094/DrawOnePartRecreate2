@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SPORT
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bd429dd9951e34d4d89d676955960906, type: 3}
+    totalSpriteSurfaceArea: 35402400
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0f92811091c895f42905189c6feab561, type: 3}
+  - {fileID: 21300000, guid: 6a5bd9e044169304b93a55f9a1e26558, type: 3}
+  - {fileID: 21300000, guid: b007a4d152fc50642b214b8cb06f6192, type: 3}
+  - {fileID: 21300000, guid: c2bc4242a4b847640946eb018ed6e067, type: 3}
+  - {fileID: 21300000, guid: 94bb57422b1ef4f4581175f3cd6e92cb, type: 3}
+  - {fileID: 21300000, guid: 5b8a4252b274eaf4d9cca4bb72055388, type: 3}
+  - {fileID: 21300000, guid: 61dd57a273fb15e42ab1c4c9fa78a6f5, type: 3}
+  - {fileID: 21300000, guid: d6b4fc13b6d83ee488e7b2b13cacda12, type: 3}
+  - {fileID: 21300000, guid: 6cc608a30fbdf9746b53ed1ec089d6eb, type: 3}
+  - {fileID: 21300000, guid: 2a1409543cf13e6418ef63c77d1878ad, type: 3}
+  - {fileID: 21300000, guid: 39653a2686d06254da7aabcb999d8f7b, type: 3}
+  - {fileID: 21300000, guid: 2cb1b1562e10fda4393e4b62543adf23, type: 3}
+  - {fileID: 21300000, guid: 5db0c656baac24945ade5753032c96cd, type: 3}
+  - {fileID: 21300000, guid: 1e3e6bf6066faa34e9e437b9d2656f30, type: 3}
+  - {fileID: 21300000, guid: e88d3738a4a850d408b081a4fc9dad6f, type: 3}
+  - {fileID: 21300000, guid: 2e3901d8517cb9e45900f7e5e9336c74, type: 3}
+  - {fileID: 21300000, guid: 04c6c849adbedc8448c7a7dbca6b3c0c, type: 3}
+  - {fileID: 21300000, guid: 6aa9cd495dd17f54d8a57e6cc2d02151, type: 3}
+  - {fileID: 21300000, guid: 9a549d89c1d9a7745b8a0b21a830b9e8, type: 3}
+  - {fileID: 21300000, guid: 924c66a96466fbc49b351951ec15f302, type: 3}
+  - {fileID: 21300000, guid: 13f493ba12d9bc54e87111e7c384110d, type: 3}
+  - {fileID: 21300000, guid: a387000bbae0f6b4b8c52ffa0e4f7480, type: 3}
+  - {fileID: 21300000, guid: 193553bb49ac34c41921e1ea8aedc853, type: 3}
+  - {fileID: 21300000, guid: 95b635db53066fc4da01fef9fd950244, type: 3}
+  - {fileID: 21300000, guid: 8a0b836c31e2b5e4e85b84074690e225, type: 3}
+  - {fileID: 21300000, guid: 725971cde18b4a642a9c67dcc0bb16d5, type: 3}
+  - {fileID: 21300000, guid: 9949ed5ffdeb6a64e85db2e55cdfb217, type: 3}
+  - {fileID: 21300000, guid: b89f7f5fde7ec004da340c719c8290e4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SPORT_36_2
+  - SPORT_17_2
+  - SPORT_21_2
+  - SPORT_37_2
+  - SPORT_38_2
+  - SPORT_37
+  - SPORT_34_2
+  - SPORT_28_2
+  - SPORT_36
+  - SPORT_9_2
+  - SPORT_9
+  - SPORT_35_2
+  - SPORT_34
+  - SPORT_32
+  - SPORT_17
+  - SPORT_38
+  - SPORT_30_2
+  - SPORT_31
+  - SPORT_16_2
+  - SPORT_30
+  - SPORT_33
+  - SPORT_32_2
+  - SPORT_31_2
+  - SPORT_28
+  - SPORT_33_2
+  - SPORT_16
+  - SPORT_35
+  - SPORT_21
+  m_RenderDataMap: {}
+  m_Tag: SPORT
+  m_IsVariant: 0

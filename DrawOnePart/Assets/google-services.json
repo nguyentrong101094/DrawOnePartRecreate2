@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "687147248439",
+    "firebase_url": "https://draw-one-part-d72a5.firebaseio.com",
+    "project_id": "draw-one-part-d72a5",
+    "storage_bucket": "draw-one-part-d72a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687147248439:android:ab47798b7d3973f45f08b2",
+        "android_client_info": {
+          "package_name": "com.doppuzzle.drawpuzzle.drawonepart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687147248439-r4j7acfu0k0f0pmr153cn219t89udi4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7F8WDkse7HQyRY51ObgCFt4edZsnva0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687147248439-r4j7acfu0k0f0pmr153cn219t89udi4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

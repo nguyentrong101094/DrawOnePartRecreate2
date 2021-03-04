@@ -1,0 +1,17 @@
+{
+    "name": "IOEditor",
+    "references": [
+        "GUID:0f532791a36cbc74380a2f7685f95f13"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

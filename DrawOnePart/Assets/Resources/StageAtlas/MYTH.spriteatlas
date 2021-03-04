@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MYTH
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 01ced9185381d634489d920db278cf28, type: 3}
+    totalSpriteSurfaceArea: 18813600
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 17623c23688614e47818bccc8754ea01, type: 3}
+  - {fileID: 21300000, guid: e121a183652de6d41940ca859b1b6742, type: 3}
+  - {fileID: 21300000, guid: 4c45d1b4db82c9244a76cb6838c7a36b, type: 3}
+  - {fileID: 21300000, guid: 49e029d580fedb6419af5a5b0b97f755, type: 3}
+  - {fileID: 21300000, guid: 97db1d46b314aa7409566a65c9b0d70b, type: 3}
+  - {fileID: 21300000, guid: cb8becb610e222d4c9c3c7057e6f49b3, type: 3}
+  - {fileID: 21300000, guid: 2c2f94b745f85864d9b19ea92b5eec9d, type: 3}
+  - {fileID: 21300000, guid: 19147629f41dcb94ea9b31ebaa7406f2, type: 3}
+  - {fileID: 21300000, guid: 51df4dd9071e3d84d8bda855e02c4695, type: 3}
+  - {fileID: 21300000, guid: 3d6737e99abb966459a8bb032e0a61d3, type: 3}
+  - {fileID: 21300000, guid: d564a84b1f567234da99e8fa656c7134, type: 3}
+  - {fileID: 21300000, guid: 9422ae6bca0c80b49a85130908cc0649, type: 3}
+  - {fileID: 21300000, guid: 474bbf3ce391b044e9e859b7fd2da84b, type: 3}
+  - {fileID: 21300000, guid: 34df068d423c2164982b6edf020ac01f, type: 3}
+  - {fileID: 21300000, guid: 1604119d565b0c14b9dec0ec16870dc5, type: 3}
+  - {fileID: 21300000, guid: 24648a1e2cbc47f45b74eafbc63be525, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MYTH_8
+  - MYTH_1_2
+  - MYTH_1
+  - MYTH_5_2
+  - MYTH_20_2
+  - MYTH_16_2
+  - MYTH_19_2
+  - MYTH_20
+  - MYTH_16
+  - MYTH_21
+  - MYTH_19
+  - MYTH_4
+  - MYTH_8_2
+  - MYTH_5
+  - MYTH_21_2
+  - MYTH_4_2
+  m_RenderDataMap: {}
+  m_Tag: MYTH
+  m_IsVariant: 0

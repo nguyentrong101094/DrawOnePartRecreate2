@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mainmenu UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2c869af94a47e5746945bb7786e72d5d, type: 3}
+    - {fileID: 102900000, guid: d0ba9f4599070694bb1fb87d51b67a27, type: 3}
+    - {fileID: 102900000, guid: f25fb95053ae41943b24535379e24af1, type: 3}
+    - {fileID: 102900000, guid: 5a952908ec757db4f8dcfa0a60f9d5c2, type: 3}
+    totalSpriteSurfaceArea: 1619948
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 44ffb6203609a4440a692f88d2a6080c, type: 3}
+  - {fileID: 21300000, guid: 8162c9d0a6ce8da4aa1df71b57ba64b2, type: 3}
+  - {fileID: 21300000, guid: e490cee17726cbc45bc63da121798504, type: 3}
+  - {fileID: 21300000, guid: 991afc34f3bb7c34fb6db2a6eefaa3ad, type: 3}
+  - {fileID: 21300000, guid: 06fafd64b2000a04381e784782873745, type: 3}
+  - {fileID: 21300000, guid: 90f749f43c35de5478ee2a5eb66bebdc, type: 3}
+  - {fileID: 21300000, guid: 4265cf053854023438d935129082f390, type: 3}
+  - {fileID: 21300000, guid: d91b45e593137b44a8f7710652953142, type: 3}
+  - {fileID: 21300000, guid: 272da0f7db358ac43adf93068548304c, type: 3}
+  - {fileID: 21300000, guid: 76354ff7a582a874cac98ecd6bdab374, type: 3}
+  - {fileID: 21300000, guid: 952d5d88a286a354d9f2799b9f62b0a7, type: 3}
+  - {fileID: 21300000, guid: 547b683a7c6e901418f7261ae65dcc29, type: 3}
+  - {fileID: 21300000, guid: 63a7972bff2e0c748a342e32b8536821, type: 3}
+  - {fileID: 21300000, guid: e287971c57a3f1f4d8e674bf6b025505, type: 3}
+  - {fileID: 21300000, guid: 1314702c76555eb4ab9a9fc504d78b08, type: 3}
+  - {fileID: 21300000, guid: a2757d0d7acde6f4c988ac3dfc5bbcc5, type: 3}
+  - {fileID: 21300000, guid: 3220f32d63f521a4990888d06ddc4255, type: 3}
+  - {fileID: 21300000, guid: d379279d83fd64b458d2c97387630bf8, type: 3}
+  - {fileID: 21300000, guid: 1cd9d9fd561072e49a78d77a0ebf6064, type: 3}
+  - {fileID: 21300000, guid: 95bf214e23b618a4cb642fa4eb2d5f2f, type: 3}
+  - {fileID: 21300000, guid: 612a8edea69585b4aa4d33a5ca990be0, type: 3}
+  - {fileID: 21300000, guid: d2a9c63f48ed17a45bccb31aa56b500f, type: 3}
+  - {fileID: 21300000, guid: d3f6694f6d5958b42a7ef2a1da14eab7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - forward 2
+  - DRAW ONE PART game copy
+  - Lock icon
+  - Continue 1
+  - backward 2
+  - Layer 23
+  - LS_4
+  - Layer 25 copy
+  - forward 1
+  - Unlocked Level
+  - Layer 24 copy
+  - BACK_1
+  - Loading
+  - forward 2
+  - forward 1
+  - Level
+  - backward 1
+  - backward 2
+  - backward 1
+  - Layer 25
+  - BACK_2
+  - Locked Level
+  - Continue 2
+  m_RenderDataMap: {}
+  m_Tag: Mainmenu UI
+  m_IsVariant: 0

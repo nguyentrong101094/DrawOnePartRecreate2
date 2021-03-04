@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LOGIC
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 83ceb4cbaea33e94fa3a04142614d3c8, type: 3}
+    totalSpriteSurfaceArea: 38132640
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b03f2f70f06321548b891fdfe9ba1ed6, type: 3}
+  - {fileID: 21300000, guid: d10332e0aac78974c9e078807c11a088, type: 3}
+  - {fileID: 21300000, guid: 356e3c92ece8f71488a55199aa9b9216, type: 3}
+  - {fileID: 21300000, guid: 957c4eb2a72d6a74e9a07a464b9e242d, type: 3}
+  - {fileID: 21300000, guid: f65b4274fead8b941babba47ea8dbe51, type: 3}
+  - {fileID: 21300000, guid: eb5308e48c836e14b814705111991ef0, type: 3}
+  - {fileID: 21300000, guid: c95fe1d6147db2d4aa915e0827068626, type: 3}
+  - {fileID: 21300000, guid: f7cad417744db3c408c8338a96bd26de, type: 3}
+  - {fileID: 21300000, guid: 12a115e70e2dfe243b1e468e1fe05b78, type: 3}
+  - {fileID: 21300000, guid: 75a42988bcb7b6149bfbb7bd9c5c3dee, type: 3}
+  - {fileID: 21300000, guid: a5df47a8198dbb549858b6380d3c6bda, type: 3}
+  - {fileID: 21300000, guid: a8fc1c2a953f52642a8e2a68415dd7bf, type: 3}
+  - {fileID: 21300000, guid: c5c2d09a6438b1d4cbe3b8e1eac79335, type: 3}
+  - {fileID: 21300000, guid: 486c20aab5c8d4c438e2956332272bff, type: 3}
+  - {fileID: 21300000, guid: 46a058db5bd089b479d6597f236e17ee, type: 3}
+  - {fileID: 21300000, guid: 914d6a2c81c9e7e4db5c388f44b89361, type: 3}
+  - {fileID: 21300000, guid: cf8a357c4086b2947b51ea8f1ad7f5f0, type: 3}
+  - {fileID: 21300000, guid: 44d697fc4e9f0c34885ef89bbf5d4b30, type: 3}
+  - {fileID: 21300000, guid: e09ff83d801518f47af6a1d99eb3a444, type: 3}
+  - {fileID: 21300000, guid: 6998f06eb841a1142812ec03fd8d05b6, type: 3}
+  - {fileID: 21300000, guid: ed0eecae1c9e61e4a8dbbc8b9a58f1ca, type: 3}
+  - {fileID: 21300000, guid: 03815dae9c816d1449730969d3736777, type: 3}
+  - {fileID: 21300000, guid: a53318ce576fb334ca8ff6f7d87def17, type: 3}
+  - {fileID: 21300000, guid: ccf3ccde82946434d9defae2476c8adf, type: 3}
+  - {fileID: 21300000, guid: 9ebb2d7f150773446adee09f6abd3a0d, type: 3}
+  - {fileID: 21300000, guid: 28a902efc09b1e948beda300cb0393fc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - LOGIC_11_2
+  - LOGIC_9
+  - LOGIC_7_2
+  - LOGIC_10_2
+  - LOGIC_5
+  - LOGIC_12
+  - LOGIC_1_2
+  - LOGIC_6
+  - LOGIC_9_2
+  - LOGIC_7
+  - LOGIC_3_2
+  - LOGIC_3
+  - LOGIC_13
+  - LOGIC_8
+  - LOGIC_4
+  - LOGIC_1
+  - LOGIC_4_2
+  - LOGIC_6_2
+  - LOGIC_2
+  - LOGIC_5_2
+  - LOGIC_12_2
+  - LOGIC_11
+  - LOGIC_13_2
+  - LOGIC_8_2
+  - LOGIC_10
+  - LOGIC_2_2
+  m_RenderDataMap: {}
+  m_Tag: LOGIC
+  m_IsVariant: 0
